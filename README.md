@@ -1,4 +1,4 @@
-# plasmid-project
+# Plasmid Project
 code and resources for plasmid analysis
 
 ## Plasmid analysis tools
